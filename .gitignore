@@ -1,0 +1,5 @@
+# remove vscode config
+.vscode
+
+# remove directory
+/bin
